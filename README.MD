@@ -10,4 +10,4 @@ You can always delete cookies on the website
 
 This project's instructions were followed by [Roadmap.sh](https://roadmap.sh/projects/cookie-consent)
 
-You can check the website (here)[https://cookie-consent-three.vercel.app/]
+You can check the website [here](https://cookie-consent-three.vercel.app/)
