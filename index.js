@@ -4,7 +4,6 @@ const cookieContainer = document.getElementById("cookie-container");
 const cookieCheck = document.getElementById("cookie-check");
 const cookieSave = document.cookie.includes("userName");
 cookieCancelBtn.addEventListener("click", () => {
-  cookieContainer.classList.remove("slideUp");
   cookieContainer.classList.add("slideDown");
   setTimeout(() => {
     cookieContainer.style.display = "none";
